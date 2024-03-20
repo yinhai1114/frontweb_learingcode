@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/es6/es6.iml" filepath="$PROJECT_DIR$/es6/es6.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/frontweb_learingcode.iml" filepath="$PROJECT_DIR$/.idea/frontweb_learingcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vue/vue.iml" filepath="$PROJECT_DIR$/vue/vue.iml" />
     </modules>
   </component>
 </project>
